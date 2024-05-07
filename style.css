@@ -1,4 +1,8 @@
-header {
-    background-color:#027a5c;
-    color:white;
+.cabecalho-lista-item
+{
+    margin:0;
+    padding:0;
+}
+.cabecalho{
+    
 }
