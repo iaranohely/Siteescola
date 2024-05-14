@@ -5,7 +5,7 @@
 }
 .cabecalho{
   background-color:seagreen;
-  color:aliceblue;
+  color:rgb(161, 207, 247);
   display:flex;
   justify-content:space-around;
   align-items:center;
