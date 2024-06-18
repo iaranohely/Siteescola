@@ -24,5 +24,12 @@ width:15%;
   width: 25%;
 }
 
-.imagem{background-image: linear-gradient(#2e8b57,#4dc287e6)
+.escola-conteudo{
+width: 35%;
+}
+
+.imagem{
+  background-image: linear-gradient(#2e8b57,#4dc287e6);
+  color:aliceblue;
+  display: flex;
 }
