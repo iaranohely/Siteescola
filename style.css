@@ -85,9 +85,17 @@ body{
 }
 .CCM{
   background-color: #066744;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
   padding: 24px 0;
 }
 .Nome{
   background-color: #066744;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
   padding: 24px 0;
 }
