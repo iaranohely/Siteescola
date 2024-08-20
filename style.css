@@ -77,7 +77,7 @@ body{
     color: white;
     display: flex;
     justify-content: space-around;
-  …  text-align: center;
+    text-align: center;
     padding: 24px 0;
   }
   .rodape{
